@@ -88,13 +88,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>wallmart-releases</name>
-	      <url>http://localhost:8081/repository/wallmart-releases/</url>
+	      <name>wallmart-release</name>
+	      <url>http://localhost:8081/repository/wallmart-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>wallmart-snapshot</name>
-	      <url>http://localhost:8081/repository/wallmart-snapshots/</url>
+	      <url>http://localhost:8081/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
