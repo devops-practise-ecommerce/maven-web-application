@@ -31,7 +31,7 @@
 	<p> Service : <a href="${pageContext.request.contextPath}/services/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <p align=center>satyaswarup  swain, DevOps consultant.</p>
-<p align=center><small>Copyrights 2018 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center><small>Copyrights 2018 by <a href="http://mithuntechnologies.com/">Satyaswarup software solution</a> </small></p>
 
 </body>
 </html>
